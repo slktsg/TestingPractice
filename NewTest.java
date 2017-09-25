@@ -72,7 +72,7 @@ public void spicejetBooking() throws InterruptedException {
 	  WebDriver Booking = new FirefoxDriver();
 	  Thread.sleep(1000);
 	  Booking.get("http://www.spicejet.com/");
-	  
+	  Booking.Close();
 	 
 	  
 	  
