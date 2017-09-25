@@ -49,6 +49,7 @@ public void spicejetBooking() throws InterruptedException {
 	Data.findElement(By.id("ControlGroupLoginModelPopUpView_MemberLoginView_TextBoxUserID")).sendKeys("912345678907");
 	  
   }
+	{}
 }
 
 
