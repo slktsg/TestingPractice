@@ -50,6 +50,11 @@ public void spicejetBooking() throws InterruptedException {
 	  
   }
 	{}
+	
+	{}
+	{}
+	{}
+	Data.close();
 }
 
 
