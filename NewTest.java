@@ -34,7 +34,7 @@ public void spicejetBooking() throws InterruptedException {
 	  Booking.findElement(By.id("ctl00_mainContent_chk_IndArm")).click();
 	  Booking.findElement(By.id("ctl00_mainContent_btn_FindFlights")).click();
 	  
-	  Booking.close();
+	  
 	
 	  
   }
