@@ -79,6 +79,8 @@ public void spicejetBooking() throws InterruptedException {
 	  
 	  {}
 	  
+	  Booking.close();
+	  
 	  
 	  Booking.get("http://www.samsung.com/us/");
 	//Closing the entire browser
