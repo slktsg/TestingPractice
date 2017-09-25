@@ -73,7 +73,7 @@ public void spicejetBooking() throws InterruptedException {
 	  Thread.sleep(1000);
 	  Booking.get("http://www.spicejet.com/");
 	  
-	 Booking.close();
+	 
 	  
 	  
 	  Booking.get("http://www.samsung.com/us/");
