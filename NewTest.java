@@ -74,7 +74,7 @@ public void spicejetBooking() throws InterruptedException {
 	  Booking.get("http://www.spicejet.com/");
 	  
 	 
-	  
+	  Booking.close();
 	  
 	  Booking.get("http://www.samsung.com/us/");
 	//Closing the entire browser
